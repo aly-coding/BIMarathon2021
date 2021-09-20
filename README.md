@@ -14,7 +14,7 @@ ____________________________________________________________________________
 What metrics are you planning to analyze.
 #of subscribers
 #of likes and 
-#of Dislkes
+#of Dislikes
 #of comments
 time
 tags
